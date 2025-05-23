@@ -1,9 +1,14 @@
+
+
 function Header() {
     return (
     <>
-    <div>
-        <></>
-        <h1 id="title">Doctor Who Regenerator</h1>
+    <div >
+        
+        <h2 id="title">Doctor Who Regenerator</h2>
+        
+            
+        
         
     </div>
 </>

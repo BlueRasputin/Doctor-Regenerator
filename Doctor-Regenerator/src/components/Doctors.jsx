@@ -1,7 +1,9 @@
+import '../Doctors.css';
 
 const Doctors = [
     {id: 1,
-     doctorNumber:"1st",
+     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxJVCExFLqtEOBurG23tunbb3s70jzUqUITA&s',
+     doctorNumber: "1st",
      age: "0-450",
      wardrobe: "",
      actor: "William Hartnell",
@@ -12,6 +14,7 @@ const Doctors = [
 
     },
     {id: 2,
+     image: 'https://ichef.bbci.co.uk/images/ic/480xn/p0217z1z.jpg',
      doctorNumber:"2nd",
      age: "450-700",
      wardrobe: "Bowtie, Suspenders & Plaid pants",
@@ -22,6 +25,7 @@ const Doctors = [
      bio: ""
     },
     {id: 3,
+     image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpN_SNJSUwokm57HuqMF2qQPggGGEcCg0xMR7WARLB0uJBN2yoQJAzN-JcdHkRtNZU2g9EjL0YllyLSQM1AdiciLTl4xsHzImTN4i1WqORnV0jM_q_u-zRUu-L07KkI7fkTZaqM95XeAk/s1600/Third+Doctor.jpg',
      doctorNumber:"3rd",
      age: "700-750",
      wardrobe: "",
@@ -32,6 +36,7 @@ const Doctors = [
      bio: ""
     },
     {id: 4,
+     image: 'https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/d602/live/9f96b7a0-b52b-11ee-beb5-e1400df560f2.jpg',
      doctorNumber:"4th",
      age: "750-813",
      wardrobe: "",
@@ -42,16 +47,18 @@ const Doctors = [
      bio: ""
     },
     {id: 5,
+     image: 'https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Fifth_Doctor_%28Doctor_Who%29.jpg/250px-Fifth_Doctor_%28Doctor_Who%29.jpg',
      doctorNumber:"5th",
      age: "813-900",
      wardrobe: "",
      actor: "",
      yearsActive: "1982-84",
      appearances: 69,
-     intFact: "filler" ,
+     intFact: "" ,
      bio: ""
     },
     {id: 6,
+     image: 'https://static.tvtropes.org/pmwiki/pub/images/sixth_4.jpg',
      doctorNumber:"6th",
      age: "900-",
      wardrobe: "",
@@ -62,6 +69,7 @@ const Doctors = [
      bio: ""
     },
     {id: 7,
+     image: 'https://static.wikitide.net/widwwawiki/thumb/0/01/Seventh_Doctor_S26.jpg/1200px-Seventh_Doctor_S26.jpg',
      doctorNumber:"7th",
      age: "",
      wardrobe: "",
@@ -72,6 +80,7 @@ const Doctors = [
      bio: ""
     },
     {id: 8,
+     image: 'https://i.namu.wiki/i/HzxQu5wEqhwheUxFxH_8y859TL5eWUKztQIpACo6ywUUq4ynUOEyRGPE4HwT6-zDkGVyi0b1tYu-JbVEu9pdZA.webp',
      doctorNumber:"8th",
      age: "",
      wardrobe: "",
@@ -82,16 +91,18 @@ const Doctors = [
      bio: ""
     },
     {id: 9,
+     image: 'https://ichef.bbci.co.uk/images/ic/480xn/p0217syf.jpg',
      doctorNumber:"The War",
      age: "",
      wardrobe: "",
-     actor: "",
+     actor: "John Hurt",
      yearsActive: "",
      appearances: null,
      intFact: "filler" ,
      bio: ""
     },
     {id: 10,
+     image: 'https://suzahdi.com/cdn/shop/products/dr-who-jacket-back.jpg?v=1666225798',
      doctorNumber:"9th",
      age: "",
      wardrobe: "",
@@ -102,6 +113,7 @@ const Doctors = [
      bio: ""
     },
     {id: 11,
+     image: 'https://i.pinimg.com/564x/c2/d6/7a/c2d67a73e0a911d04a2aa28d48be9662.jpg',
      doctorNumber:"10th",
      age: "",
      wardrobe: "",
@@ -112,7 +124,8 @@ const Doctors = [
      bio: ""
     },
     {id: 12,
-     doctorNumber:"11th",
+     image: 'https://theconsultingdetectivesblog.com/wp-content/uploads/2013/12/5180726-low-doctor-who1.jpg' ,
+     doctorNumber: "11th",
      age: "",
      wardrobe: "",
      actor: "",
@@ -122,16 +135,18 @@ const Doctors = [
      bio: ""
     },
     {id: 13,
+     image: 'https://www.famous-jackets.co.uk/wp-content/uploads/2018/01/12th-Doctor-Who-Coat.jpg',
      doctorNumber:"12th",
      age: "",
      wardrobe: "",
-     actor: "",
+     actor: "Peter Capaldi",
      yearsActive: "",
      appearances: null,
      intFact: "filler" ,
      bio: ""
     },
     {id: 14,
+     image: 'https://media.vanityfair.com/photos/5a04889da5d94677ed93cb5c/master/w_1600%2Cc_limit/Doctor%2520Who_S11_Costume%2520Reveal.jpg',
      doctorNumber:"13th",
      age: "",
      wardrobe: "",
@@ -142,6 +157,7 @@ const Doctors = [
      bio: ""
     },
     {id: 15,
+     image: 'https://www.crushingkrisis.com/assets/Fourteenth-Doctor-Who-David-Tennant-BBC-Header-Tall-400x613.jpg',
      doctorNumber:"14th",
      age: "",
      wardrobe: "",
@@ -149,9 +165,10 @@ const Doctors = [
      yearsActive: "2023",
      appearances: "60th Anniversary Specials",
      intFact: "filler" ,
-     bio: ""
+     bio: "The Doctor subconciously determined that they"
     },
     {id: 16,
+     image: 'https://preview.redd.it/what-is-the-best-quote-from-the-fifteenth-doctor-v0-z3c2jums338e1.png?width=446&format=png&auto=webp&s=0bff24f8d4965216087ba065dd3f29c0ca2e8d32',
      doctorNumber:"15th",
      age: "",
      wardrobe: "",
@@ -159,9 +176,10 @@ const Doctors = [
      yearsActive: "2023-present",
      appearances: null,
      intFact: "filler",
-     bio: "Gatwa portrays the Doctor in the most unique manner yet",
+     bio: "Gatwa portrays the Doctor in the most unique manner yet, supplying a human-like authenticity unlike any actor before him. Most iterations of the doctor",
     },
     {id: 17,
+     image: 'https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Fugitive_Doctor_%28Jo_Martin%29.png/250px-Fugitive_Doctor_%28Jo_Martin%29.png',
      doctorNumber:"The Fugitive",
      age: "unknown",
      wardrobe: "",
@@ -175,3 +193,4 @@ const Doctors = [
 
 
 export default Doctors
+

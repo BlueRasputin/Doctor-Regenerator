@@ -1,6 +1,7 @@
 
 import React, { useState } from 'react';
 import Doctors from './Doctors';
+import '../Regenerator.css';
 
 
 
@@ -37,7 +38,7 @@ function Regenerator() {
 //Edge case: Do I care about a user being able to go back a doc?  Do I care about what happens when they reach the end?  Maybe a stretch goal.
 
 
-//TODO: create handleRegenerate (button press)
+//TODO:
 
 function handleRegenerate() {
     let newIndex = index + 1;
@@ -52,21 +53,34 @@ function handleRegenerate() {
 
 return ( 
     <>
-    <div className="Doctor-Picture"><img src={currentDoctor.picture} alt="Doctor Image Here"></img></div>
-    <div className="Doctor-Profile">
-    
-    <h3 id="DocNum"> {currentDoctor.doctorNumber} <br />Doctor</h3>
-    <h5 id="ageRange">Age Range: <br /> {currentDoctor.age}</h5>
-    <h5 id="actor">Portrayed by: <br /> {currentDoctor.actor}</h5>
-    <h5></h5>
-    <h5 id="notableWardrobe">Notable wardrobe item: <br />{currentDoctor.wardrobe}</h5>
-    <h5 id="Tenure">Tenure: {currentDoctor.tenure}</h5>
-    <h5 id="numEpisodes">Appearances: {currentDoctor.appearances}</h5>
-    <h6 id="intFact">Interesting Fact: {currentDoctor.intFact}</h6>
+    <style> 
+    background-image: <img src={currentDoctor.consoleRoom} alt="console-room" />
+     </style>
+     <div className="Doctor-page">
 
+    <div className="Doctor-Picture">
+        <img src={currentDoctor.image} alt="Doctor Image Here" / >
+    </div>
+
+
+    <div className="Doctor-Profile">
+        <h3 id="DocNum"> {currentDoctor.doctorNumber} <br />Doctor</h3>
+        <h5 id="ageRange">Age Range: <br /> {currentDoctor.age}</h5>
+        <h5 id="actor">Portrayed by: <br /> {currentDoctor.actor}</h5>
+     <h5></h5>
+        <h5 id="notableWardrobe">Notable wardrobe item: <br />{currentDoctor.wardrobe}</h5>
+        <h5 id="Tenure">Tenure: {currentDoctor.tenure}</h5>
+        <h5 id="numEpisodes">Appearances: {currentDoctor.appearances}</h5>
+        <h6 id="intFact">Interesting Fact: {currentDoctor.intFact}</h6>
+        <br />
+        <button id="regenerate" onClick={handleRegenerate}>REGENERATE</button>
+    </div>
+    </div>
+    <div className="Doctor-bio">
+        {currentDoctor.Bio}
     </div>
     <div>
-        <button id="regenerate" onClick={handleRegenerate}>REGENERATE</button>
+        
     </div>
     </>
 
@@ -76,3 +90,4 @@ return (
 
 } 
 export default Regenerator;
+

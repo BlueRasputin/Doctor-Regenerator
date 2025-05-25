@@ -1,15 +1,10 @@
-
+import '../Header.css';
 
 function Header() {
     return (
     <>
-    <div >
-        
+    <div > 
         <h2 id="title">Doctor Who Regenerator</h2>
-        
-            
-        
-        
     </div>
 </>
 )

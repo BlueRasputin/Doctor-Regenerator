@@ -1,8 +1,13 @@
+import React from "react";
 
-
-function footer() {
+function Footer() {
 return(
+    <>
+    <div>
+        <h5>Doctor Who is a licensed trademark of the BBC ©</h5>
+    </div>
 
+    </>
 );
 }
 

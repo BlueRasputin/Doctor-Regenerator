@@ -1,12 +1,11 @@
-import { useState } from 'react';
-import Header  from './components/Header.jsx';
-// import { Footer } from './components/Footer.jsx';
+
+import {  BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar.jsx';
 import About from './components/About.jsx'
-
+import HomePage from './components/HomePage.jsx'
 import Regenerator from './components/Regenerator.jsx';
-import './App.css';
-import {  BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import DocDirectory from './components/DocDirectory.jsx';import './App.css';
+
 
 
 // const router = createBrowserRouter([
@@ -26,7 +25,10 @@ function App() {
 
         <div>
           <Routes>
-            <Route path="/" element={<Regenerator />} />
+            <Route path="/" element={<HomePage />} />
+            <Route path="Regenerator" element={<Regenerator />} />
+            <Route path="DocDirectory" element={<DocDirectory />} />
+            <Route path="/Doctors/:id" element={<Regenerator />} />
             <Route path="/About" element={<About />} />
             
           </Routes>

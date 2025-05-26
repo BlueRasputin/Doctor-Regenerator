@@ -7,16 +7,25 @@ import '../Nav.css';
 function NavBar() {
   return (
     <nav className="nav">
-    <h2 id="title">Doctor Who <br /> Regenerator</h2>
-    <br />
-    <div className="siteTitle"></div>
-                <Link to="/"></Link>
+    {/* <h2 id="title">Doctor Who <br /> Regenerator</h2> */}
+    
+    {/* <div className="siteTitle"></div>
+                <Link to="/"></Link> */}
       <ul>
+        {/* <li>
+          <Link to="/">HOME</Link>
+        </li> */}
         <li>
-          <Link to="/">REGENERATOR</Link>
+          <Link to="/">HOME</Link>
         </li>
         <li>
-          <Link to="/about">ABOUT</Link>
+          <Link to="/Regenerator">REGENERATOR</Link>
+        </li>
+        <li>
+          <Link to="/DocDirectory">DOCTOR DIRECTORY</Link>
+        </li>
+        <li>
+          <Link to="/About">ABOUT</Link>
         </li>
         <li>
           <Link to="/contact">CONTACT

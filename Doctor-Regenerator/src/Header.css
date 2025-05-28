@@ -11,7 +11,7 @@
     width: device-width;
     background-color: #003B6F;
     color: white;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     text-align: center;
     justify-content: center;
     gap: 2rem;

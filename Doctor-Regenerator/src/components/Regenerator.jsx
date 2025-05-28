@@ -16,8 +16,8 @@ function Regenerator() {
     const initialIndex = Doctors.findIndex(doc => doc.id === parseInt(id));
     const [index, setIndex] = useState(initialIndex !== -1 ? initialIndex : 0);
     const navigate = useNavigate();
+    // const regenButtonContent = (currentDoctor.id === 15 ? "BIGENERATE" : "REGENERATE");
    
-
     //currentDoctor represents the doc that's being displayed.
 
     
@@ -32,11 +32,17 @@ function Regenerator() {
 
 );
     
-
+    //Function to toggle grayscale for doctors 1 & 2
     useEffect(() => {
         document.body.className = currentDoctor.id <= 2 ? 'grayscale' : ''
     }, [currentDoctor.id]
     );
+
+    // Function to change button text depending on 
+    // useEffect(() => {
+    //     document.body.className = currentDoctor.id == 17 ? 'BIGENERATE' : 'REGENERATE'
+    // }, [currentDoctor.id]
+    // );
 
 
     // };
@@ -59,7 +65,7 @@ function handleRegenerate() {
         newIndex = 0;
     }
     
-    // creates routes for the Doctor Directory to directly access doctor profiles
+    // creates URL routes for the Doctor Directory to directly access doctor profiles
     setIndex(newIndex);
     navigate(`/Doctors/${Doctors[newIndex].id}`);
 }
@@ -72,38 +78,42 @@ if (!currentDoctor) {
 
 return ( 
     <>
-    <style> 
+    {/* <style> 
     background-image: <img src={currentDoctor.consoleRoom} alt="console-room" />
-     </style>
+     </style> */}
      <div className="Doctor-page">
 
-    <div className="Doctor-Picture">
-        <img src={currentDoctor.image} alt="Doctor Image Here" / >
-    </div>
+        <div className="Doctor-Picture">
+            <img src={currentDoctor.image} alt="Doctor Image Here" / >
+        </div>
 
 
-    <div className="Doctor-Profile">
-    <ul className="Doctor-Profile-Info">
-        <li id="DoctorNumber"> {currentDoctor.doctorNumber} <br />DOCTOR</li>
-        <li id="ageRange">Age Range: <br /> {currentDoctor.age}</li>
-        <li id="actor">Portrayed by: <br /> {currentDoctor.actor}</li>
-     
-        <li id="notableWardrobe">Notable wardrobe item: <br />{currentDoctor.wardrobe}</li>
-        <li id="Tenure">Tenure: {currentDoctor.tenure}</li>
-        <li id="numEpisodes">Appearances: {currentDoctor.appearances}</li>
-        <li id="intFact">Interesting Fact: {currentDoctor.intFact}</li>
-        <br />
-    </ul>
-        <button className="Regenerate" onClick={handleRegenerate}>REGENERATE</button>
-    </div>
-    </div>
-    <div className="Doctor-bio">
-        {currentDoctor.Bio}
-    </div>
-    <div>
+            <div className="Doctor-Profile">
+            <ul className="Doctor-Profile-Info">
+                <li id="DoctorNumber"> {currentDoctor.doctorNumber} <br />DOCTOR</li>
+                <li id="ageRange">Age Range: <br /> {currentDoctor.age}</li>
+                <li id="actor">Portrayed by: <br /> {currentDoctor.actor}</li>
+                <li id="notableWardrobe">Notable wardrobe item: <br />{currentDoctor.wardrobe}</li>
+                <li id="Tenure">Tenure: {currentDoctor.tenure}</li>
+                <li id="numEpisodes">Appearances: {currentDoctor.appearances}</li>
+                <li id="intFact">Interesting Fact: {currentDoctor.intFact}</li>
+                <br />
+            </ul>
+            
+                <br />
+                <button className="Regenerate" onClick={handleRegenerate}>Regenerate</button>
+            
         
-    </div>
-    </>
+            <br />
+            </div>
+        </div>
+        <div className="Doctor-page">
+            <div className="Doctor-bio">
+                {currentDoctor.bio ? currentDoctor.bio : 'No bio available.'}
+            </div>
+            
+        </div>
+        </>
 
 
     );

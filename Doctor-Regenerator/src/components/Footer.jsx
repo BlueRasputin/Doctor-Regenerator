@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
 return(
     <>
-    <div>
+    <div className="Footer">
         <h5>Doctor Who is a licensed trademark of the BBC ©</h5>
     </div>
 

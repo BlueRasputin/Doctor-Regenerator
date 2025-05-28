@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: #003B6F;
-  background-color: #0e0e43;
+  background-color: #060636;
   
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -58,13 +58,12 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  filter: drop-shadow( 0 0 20px currentcolor
-  );
+  
   
  
-  background-color:#e8a719;
+  /* background-color:#e8a719;
   font-weight: 550;
-  padding: 0.8em 1.8em;
+  padding: 0.8em 1.8em; */
 
 }
 button:focus,
@@ -86,6 +85,3 @@ button:focus-visible {
 }
 
 
-.light{
-  justify-content: center;
-}

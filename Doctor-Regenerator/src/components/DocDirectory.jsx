@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import Doctors from "./Doctors.jsx";
 
-{/* <Route path="/Doctors/:id" element={<Regenerator />} /> */}
+
 
 function DocDirectory() {
   return (

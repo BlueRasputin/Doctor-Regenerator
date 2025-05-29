@@ -93,10 +93,10 @@ return (
                 <li id="DoctorNumber"> {currentDoctor.doctorNumber} <br />DOCTOR</li>
                 <li id="ageRange">Age Range: <br /> {currentDoctor.age}</li>
                 <li id="actor">Portrayed by: <br /> {currentDoctor.actor}</li>
-                <li id="notableWardrobe">Notable wardrobe item: <br />{currentDoctor.wardrobe}</li>
+                <li id="notableWardrobe">Companion(s): <br />{currentDoctor.companions}</li>
                 <li id="Tenure">Tenure: {currentDoctor.tenure}</li>
                 <li id="numEpisodes">Appearances: {currentDoctor.appearances}</li>
-                <li id="intFact">Interesting Fact: {currentDoctor.intFact}</li>
+                <li id="intFact">Interesting Fact:<br/>{currentDoctor.intFact}</li>
                 <br />
             </ul>
             
@@ -111,7 +111,6 @@ return (
             <div className="Doctor-bio">
                 {currentDoctor.bio ? currentDoctor.bio : 'No bio available.'}
             </div>
-            
         </div>
         </>
 

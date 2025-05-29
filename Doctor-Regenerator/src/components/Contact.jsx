@@ -52,7 +52,7 @@ const validateForm = (data) => {
     }
 
     if (!data.message) {
-        errors.message = 'Please enter a message';
+        errors.message = 'Please enter your Feedback';
     // } else if (data.message.length == "") {
     //     errors.message = 'Please enter a message';
     }
@@ -63,19 +63,22 @@ const validateForm = (data) => {
 
     return (
         <div className="form-container">
-            <h2 className="form-title">Contact Us!</h2>
+            <h2 className="form-title">Please let us know how we can improve our site!</h2>
             <form onSubmit={handleSubmit}>
                 <div>
                     <label className="form-label">
                         Name:
-                    </label>
+                    
                     <input 
                         className="form-input"
                         type="text"
                         name="name"
                         value={formData.name}
                         onChange={handleChange}
+                        autoComplete="on"
                     />
+
+                    </label>
                     {errors.name && (
                         <span className="error-message">
                             {errors.name}
@@ -86,14 +89,17 @@ const validateForm = (data) => {
                 <div>
                     <label className="form-label">
                         Email:
-                    </label>
+                    
                     <input 
                         className="form-input"
                         type="email"
                         name="email"
                         value={formData.email}
                         onChange={handleChange}
+                        autoComplete="on"
                     />
+
+                    </label>
                     {errors.email && (
                         <span className="error-message">
                             {errors.email}
@@ -104,14 +110,17 @@ const validateForm = (data) => {
                 <div>
                     <label className="form-label">
                         Message:
-                    </label>
+                    
                     <textarea
                         className="form-input"
                         id="messageBox"
                         name="message"
                         value={formData.message}
                         onChange={handleChange}
+                        autoComplete="on"
                     />
+
+                    </label>
                     {errors.message && (
                         <span className="error-message">
                             {errors.message}

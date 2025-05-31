@@ -4,14 +4,12 @@
 
 .Header {
     margin-top: 0;
-    /* padding-bottom: 2rem; */
     margin-left: 2rem;
     margin-right: 2rem;
     display: flex;
     width: device-width;
     background-color: #003B6F;
     color: white;
-    /* justify-content: space-between; */
     text-align: center;
     justify-content: center;
     gap: 2rem;

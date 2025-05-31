@@ -16,7 +16,7 @@ function Regenerator() {
     const initialIndex = Doctors.findIndex(doc => doc.id === parseInt(id));
     const [index, setIndex] = useState(initialIndex !== -1 ? initialIndex : 0);
     const navigate = useNavigate();
-    // const regenButtonContent = (currentDoctor.id === 15 ? "BIGENERATE" : "REGENERATE");
+    
    
     //currentDoctor represents the doc that's being displayed.
 
@@ -57,7 +57,7 @@ function Regenerator() {
 //Edge case: Do I care about a user being able to go back a doc?  Do I care about what happens when they reach the end?  Maybe a stretch goal.
 
 
-//TODO:
+
 
 function handleRegenerate() {
     let newIndex = index + 1;

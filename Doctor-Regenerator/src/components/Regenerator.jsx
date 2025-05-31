@@ -1,9 +1,9 @@
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import Doctors from './Doctors';
 import '../Regenerator.css';
-
+import RegenSound from '../assets/DWRegenSound.mp3'
 
 
 function Regenerator() {
@@ -89,22 +89,22 @@ return (
 
 
             <div className="Doctor-Profile">
-            <ul className="Doctor-Profile-Info">
-                <li id="DoctorNumber"> {currentDoctor.doctorNumber} <br />DOCTOR</li>
-                <li id="ageRange">Age Range: <br /> {currentDoctor.age}</li>
-                <li id="actor">Portrayed by: <br /> {currentDoctor.actor}</li>
-                <li id="notableWardrobe">Companion(s): <br />{currentDoctor.companions}</li>
-                <li id="Tenure">Tenure: {currentDoctor.tenure}</li>
-                <li id="numEpisodes">Appearances: {currentDoctor.appearances}</li>
-                <li id="intFact">Interesting Fact:<br/>{currentDoctor.intFact}</li>
-                <br />
-            </ul>
+                <ul className="Doctor-Profile-Info">
+                    <li id="DoctorNumber"> {currentDoctor.doctorNumber} <br />DOCTOR</li>
+                    <li id="ageRange">Age Range: <br /> {currentDoctor.age}</li>
+                    <li id="actor">Portrayed by: <br /> {currentDoctor.actor}</li>
+                    <li id="notableWardrobe">Companion(s): <br />{currentDoctor.companions}</li>
+                    <li id="Tenure">Tenure: {currentDoctor.tenure}</li>
+                    <li id="numEpisodes">Appearances: {currentDoctor.appearances}</li>
+                    <li id="intFact">Interesting Fact:<br/>{currentDoctor.intFact}</li>
+                    <br />
+                </ul>
             
                 <br />
+                
                 <button className="Regenerate" onClick={handleRegenerate}>Regenerate</button>
             
-        
-            <br />
+                <br />
             </div>
         </div>
         <div className="Doctor-page">

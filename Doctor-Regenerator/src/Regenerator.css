@@ -14,21 +14,15 @@
     margin-right: 2rem;
      border: 10px inset #003B6F;
      background-color: #f5f0e2;
-     /* max-width: 345px; */
      min-width: 345px;
-     /* height: inherit; */
-     /* display: flex; */
      flex: 1 1 auto;
      align-items: left;
 }
-/* .D */
+
 img {
     margin-top: 1rem;
     margin-right: 1rem;
     margin-left: 2rem;
-    /* min-height: inherit; */
-
-    /* height: inherit; */
     min-width: 345px;
     max-width: 345px;
     
@@ -69,22 +63,44 @@ ul {
 
 .Regenerate {
   flex-grow: 1;
-  margin-bottom: auto;
+  margin-bottom: 1rem;
   border-radius: 10px;
   border: 4px solid transparent;
   padding: 0.8em 1.8em;
   font-size: 1em;
   font-weight: 500;
+  width: 80%;
   font-family: inherit;
   background-color: #744711;
   cursor: pointer;
   transition: border-color 0.25s;
 }
 
+@keyframes regen-glow {
+  0%   {background-color:#ebc358;
+        filter: drop-shadow( 0 0 10px currentcolor
+  );}
+  25%  {background-color:#ebdb9c; 
+        filter: drop-shadow( 0 0 80px currentcolor
+  );}
+  50%  {background-color:rgb(209, 172, 28);
+        filter: drop-shadow( 0 0 60px currentcolor
+  ); }
+  75%  {background-color:rgb(245, 218, 172); 
+        filter: drop-shadow( 0 0 80px currentcolor
+  );}
+  100% {background-color:rgb(211, 186, 75);
+        filter: drop-shadow( 0 0 20px currentcolor
+  );}
+}
+
+
 .Regenerate:hover {
-  filter: drop-shadow( 0 0 20px currentcolor
+  filter: drop-shadow( 80 0 80px currentcolor
   );
-  
+  animation-name: regen-glow;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
  
   background-color:#e8a719;
   font-weight: 550;
@@ -124,6 +140,13 @@ font-size:200px;
  
 @media (max-width: 768px) {
       body { font-size: 14px; }
+      .Regenerate { width: 80%; float: none; }
+      .Doctor-Profile {width: 100%; float: none;}
+      .sidebar { display: none; }
+    }
+
+@media (max-width: 820px) {
+      body { font-size: 14px; display: flex;}
       .Regenerate { width: 80%; float: none; }
       .Doctor-Profile {width: 100%; float: none;}
       .sidebar { display: none; }

@@ -14,7 +14,7 @@ const [formData, setFormData] = useState({
     message: '',
 });
 const [errors, setErrors] = useState({});
-
+const [submitted, setSubmitted] = useState(false);
 const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData({
@@ -56,7 +56,14 @@ const validateForm = (data) => {
     // } else if (data.message.length == "") {
     //     errors.message = 'Please enter a message';
     }
-
+    if (Object.keys(errors).length === 0) {
+        console.log('Thanks for your feedback!');
+        setSubmitted(true);
+        setFormData({ name: '', email: '', message: '' });
+    } else {
+    console.log('Please complete all information');
+    setSubmitted(false);
+    }
     return errors;
 };
 
@@ -128,6 +135,9 @@ const validateForm = (data) => {
                     )}
                 </div>
                 <br />
+                    {submitted && (
+                        <p className="success-message">Thanks for your Feedback!</p>
+                    )}
                 <button className="submit-button" type="submit">Submit</button>
             </form>
             

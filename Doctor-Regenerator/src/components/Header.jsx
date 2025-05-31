@@ -5,13 +5,14 @@ import { Link } from "react-router-dom";
 function Header() {
     return (
     <>
-
+        <div >
         <Link to='/'><div className="light"></div></Link>
-
-        <link to='/'
+        </div>
+        {/* <link to='/'
+        url
         rel="icon" 
         type="image/png" 
-        href='../assets/favicon.png' />
+        href='../assets/favicon.png' /> */}
 
 
 

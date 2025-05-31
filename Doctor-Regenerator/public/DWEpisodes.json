@@ -1,0 +1,1971 @@
+[{
+    "episodeid": "1-1",
+    "title": "An Unearthly Child",
+    "first_diffusion": "23 Nov, 1963",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "1-2",
+    "title": "The Daleks",
+    "first_diffusion": "21 Dec, 1963",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "1-3",
+    "title": "The Edge of Destruction",
+    "first_diffusion": "8 Feb, 1964",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "1-4",
+    "title": "Marco Polo",
+    "first_diffusion": "22 Feb, 1964",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "1-5",
+    "title": "The Keys Of Marinus",
+    "first_diffusion": "11 Apr, 1964",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "1-6",
+    "title": "The Aztecs",
+    "first_diffusion": "23 May, 1964",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "1-7",
+    "title": "The Sensorites",
+    "first_diffusion": "20 Jun, 1964",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "1-8",
+    "title": "Reign of Terror",
+    "first_diffusion": "12 Sep, 1964",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "2-1",
+    "title": "Planet of Giants",
+    "first_diffusion": "31 Oct, 1964",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "2-2",
+    "title": "The Dalek Invasion of Earth",
+    "first_diffusion": "21 Nov, 1964",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "2-3",
+    "title": "The Rescue",
+    "first_diffusion": "2 Jan, 1965",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "2-4",
+    "title": "The Romans",
+    "first_diffusion": "16 Jan, 1965",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "2-5",
+    "title": "The Web Planet",
+    "first_diffusion": "13 Feb, 1965",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "2-6",
+    "title": "The Crusade",
+    "first_diffusion": "28 Mar, 1965",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "2-7",
+    "title": "The Space Museum",
+    "first_diffusion": "24 Apr, 1965",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "2-8",
+    "title": "The Chase",
+    "first_diffusion": "22 May, 1965",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "2-9",
+    "title": "The Time Meddler",
+    "first_diffusion": "3 Jul, 1965",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "3-1",
+    "title": "Galaxy Four",
+    "first_diffusion": "11 Sep, 1965",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "3-1-5",
+    "title": "Mission to the Unknown",
+    "first_diffusion": "9 Oct, 1965",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "3-2",
+    "title": "The Myth Makers",
+    "first_diffusion": "16 Oct, 1965",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "3-3",
+    "title": "The Dalek's Master Plan",
+    "first_diffusion": "13 Nov, 1966",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "3-4",
+    "title": "The Massacre of St Bartholomew's Eve",
+    "first_diffusion": "5 Feb, 1966",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "3-5",
+    "title": "The Ark",
+    "first_diffusion": "5 Mar, 1966",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "3-6",
+    "title": "The Celestial Toymaker",
+    "first_diffusion": "2 Apr, 1966",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "3-7",
+    "title": "The Gunfighters",
+    "first_diffusion": "30 Apr, 1966",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "3-8",
+    "title": "The Savages",
+    "first_diffusion": "28 May, 1966",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "3-9",
+    "title": "The War Machines",
+    "first_diffusion": "25 Jun, 1966",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "4-1",
+    "title": "The Smugglers",
+    "first_diffusion": "10 Sep, 1966",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "4-2",
+    "title": "The Tenth Planet",
+    "first_diffusion": "8 Oct, 1966",
+    "doctorid": 1
+  },
+  {
+    "episodeid": "4-3",
+    "title": "The Power of the Daleks",
+    "first_diffusion": "5 Nov, 1966",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "4-4",
+    "title": "The Highlanders",
+    "first_diffusion": "17 Dec, 1966",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "4-5",
+    "title": "The Underwater Menace",
+    "first_diffusion": "Jan 14, 1967",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "4-6",
+    "title": "The Moonbase",
+    "first_diffusion": "11 Feb, 1967",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "4-7",
+    "title": "The Macra Terror",
+    "first_diffusion": "11 Mar, 1967",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "4-8",
+    "title": "The Faceless Ones",
+    "first_diffusion": "8 Apr, 1967",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "4-9",
+    "title": "The Evil of the Daleks",
+    "first_diffusion": "20 May, 1967",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "5-1",
+    "title": "The Tomb of the Cybermen",
+    "first_diffusion": "2 Sep, 1967",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "5-2",
+    "title": "The Abominable Snowmen",
+    "first_diffusion": "30 Sep, 1967",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "5-3",
+    "title": "The Ice Warriors",
+    "first_diffusion": "Nov 11, 1967",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "5-4",
+    "title": "The Enemy of the World",
+    "first_diffusion": "23 Dec, 1967",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "5-5",
+    "title": "The Web of Fear",
+    "first_diffusion": "3 Feb, 1968",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "5-6",
+    "title": "Fury From The Deep",
+    "first_diffusion": "16 Mar, 1968",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "5-7",
+    "title": "The Wheel In Space",
+    "first_diffusion": "27 Apr, 1968",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "6-1",
+    "title": "The Dominators",
+    "first_diffusion": "10 Aug, 1968",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "6-2",
+    "title": "The Mind Robber",
+    "first_diffusion": "14 Sep, 1968",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "6-3",
+    "title": "The Invasion",
+    "first_diffusion": "2 Nov, 1968",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "6-4",
+    "title": "The Krotons",
+    "first_diffusion": "28 Dec, 1968",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "6-5",
+    "title": "The Seeds of Death",
+    "first_diffusion": "25 Jan, 1969",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "6-6",
+    "title": "The Space Pirates",
+    "first_diffusion": "8 Mar, 1969",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "6-7",
+    "title": "The War Games",
+    "first_diffusion": "19 Apr, 1969",
+    "doctorid": 2
+  },
+  {
+    "episodeid": "7-2",
+    "title": "Doctor Who and The Silurians",
+    "first_diffusion": "31 Jan, 1970",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "7-3",
+    "title": "The Ambassadors of Death",
+    "first_diffusion": "21 Mar, 1970",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "7-4",
+    "title": "Inferno",
+    "first_diffusion": "9 May, 1970",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "8-1",
+    "title": "Terror of the Autons",
+    "first_diffusion": "2 Jan, 1971",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "8-2",
+    "title": "The Mind of Evil",
+    "first_diffusion": "30 Jan, 1971",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "8-3",
+    "title": "The Claws of Axos",
+    "first_diffusion": "13 Mar, 1971",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "8-4",
+    "title": "Colony In Space",
+    "first_diffusion": "10 Apr, 1971",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "8-5",
+    "title": "The Daemons",
+    "first_diffusion": "2 May, 1971",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "9-1",
+    "title": "Day of the Daleks",
+    "first_diffusion": "1 Jan, 1972",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "9-2",
+    "title": "The Curse of Peladon",
+    "first_diffusion": "29 Jan, 1972",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "9-3",
+    "title": "The Sea Devils",
+    "first_diffusion": "26 Feb, 1972",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "9-4",
+    "title": "The Mutants",
+    "first_diffusion": "8 Apr, 1972",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "9-5",
+    "title": "The Time Monster",
+    "first_diffusion": "20 May, 1972",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "10-1",
+    "title": "The Three Doctors",
+    "first_diffusion": "30 Dec, 1972",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "10-2",
+    "title": "Carnival of Monsters",
+    "first_diffusion": "27 Jan, 1973",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "10-3",
+    "title": "Frontier in Space",
+    "first_diffusion": "24 Feb, 1973",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "10-4",
+    "title": "Planet of the Daleks",
+    "first_diffusion": "7 Apr, 1973",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "10-5",
+    "title": "The Green Death",
+    "first_diffusion": "19 May, 1973",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "11-1",
+    "title": "The Time Warrior",
+    "first_diffusion": "15 Dec, 1973",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "11-2",
+    "title": "Invasion of the Dinosaurs",
+    "first_diffusion": "12 Jan, 1974",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "11-3",
+    "title": "Death to the Daleks",
+    "first_diffusion": "23 Feb, 1974",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "11-4",
+    "title": "The Monster of Peladon",
+    "first_diffusion": "23 Mar, 1974",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "11-5",
+    "title": "Planet of the Spiders",
+    "first_diffusion": "4 May, 1974",
+    "doctorid": 3
+  },
+  {
+    "episodeid": "7-1",
+    "title": "Spearhead from Space",
+    "first_diffusion": "3 Jan, 1970",
+    "doctorid": 3
+  },
+{
+    "episodeid": "12-1",
+    "title": "Robot",
+    "first_diffusion": "28 Dec, 1974",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "12-2",
+    "title": "The Ark in Space",
+    "first_diffusion": "25 Jan, 1975",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "12-3",
+    "title": "The Sontaran Experiment",
+    "first_diffusion": "22 Feb, 1975",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "12-4",
+    "title": "Genesis of the Daleks",
+    "first_diffusion": "8 Mar, 1975",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "12-5",
+    "title": "Revenge of the Cybermen",
+    "first_diffusion": "19 Apr, 1975",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "13-1",
+    "title": "Terror of the Zygons",
+    "first_diffusion": "30 Aug, 1975",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "13-2",
+    "title": "Planet of Evil",
+    "first_diffusion": "27 Sep, 1975",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "13-3",
+    "title": "Pyramids of Mars",
+    "first_diffusion": "25 Oct, 1975",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "13-4",
+    "title": "The Android Invasion",
+    "first_diffusion": "22 Nov, 1975",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "13-5",
+    "title": "The Brain of Morbius",
+    "first_diffusion": "3 Jan, 1976",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "13-6",
+    "title": "The Seeds of Doom",
+    "first_diffusion": "31 Jan, 1976",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "14-1",
+    "title": "Masque of Mandragora",
+    "first_diffusion": "4 Sep, 1976",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "14-2",
+    "title": "The Hand of Fear",
+    "first_diffusion": "2 Oct, 1976",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "14-3",
+    "title": "The Deadly Assassin",
+    "first_diffusion": "30 Oct, 1976",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "14-4",
+    "title": "The Face of Evil",
+    "first_diffusion": "1 Jan, 1977",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "14-5",
+    "title": "The Robots of Death",
+    "first_diffusion": "29 Jan, 1977",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "14-6",
+    "title": "The Talons of Weng-Chiang",
+    "first_diffusion": "26 Feb, 1977",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "15-1",
+    "title": "Horror of Fang Rock",
+    "first_diffusion": "3 Sep, 1977",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "15-2",
+    "title": "The Invisible Enemy",
+    "first_diffusion": "1 Oct, 1977",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "15-3",
+    "title": "Image of the Fendahl",
+    "first_diffusion": "29 Oct, 1977",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "15-4",
+    "title": "The Sun Makers",
+    "first_diffusion": "26 Nov, 1977",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "15-5",
+    "title": "Underworld",
+    "first_diffusion": "7 Jan, 1978",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "15-6",
+    "title": "The Invasion of Time",
+    "first_diffusion": "4 Feb, 1978",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "16-1",
+    "title": "The Ribos Operation",
+    "first_diffusion": "2 Sep, 1978",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "16-2",
+    "title": "The Pirate Planet",
+    "first_diffusion": "30 Sep, 1978",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "16-3",
+    "title": "The Stones of Blood",
+    "first_diffusion": "28 Oct, 1978",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "16-4",
+    "title": "The Androids of Tara",
+    "first_diffusion": "25 Nov, 1978",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "16-5",
+    "title": "The Power of Kroll",
+    "first_diffusion": "23 Dec, 1978",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "16-6",
+    "title": "The Armageddon Factor",
+    "first_diffusion": "20 Jan, 1979",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "17-1",
+    "title": "Destiny of the Daleks",
+    "first_diffusion": "1 Sep, 1979",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "17-2",
+    "title": "City of Death",
+    "first_diffusion": "29 Sep, 1979",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "17-3",
+    "title": "The Creature from the Pit",
+    "first_diffusion": "27 Oct, 1979",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "17-4",
+    "title": "Nightmare of Eden",
+    "first_diffusion": "24 Nov, 1979",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "17-5",
+    "title": "The Horns of Nimon",
+    "first_diffusion": "22 Dec, 1979",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "17-6",
+    "title": "Shada",
+    "first_diffusion": "Not broadcast",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "18-1",
+    "title": "The Leisure Hive",
+    "first_diffusion": "30 Aug, 1980",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "18-2",
+    "title": "Meglos",
+    "first_diffusion": "27 Sep, 1980",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "18-3",
+    "title": "Full Circle",
+    "first_diffusion": "25 Oct, 1980",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "18-4",
+    "title": "State of Decay",
+    "first_diffusion": "22 Nov, 1980",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "18-5",
+    "title": "Warrior's Gate",
+    "first_diffusion": "3 Jan, 1981",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "18-6",
+    "title": "The Keeper of Traken",
+    "first_diffusion": "31 Jan, 1981",
+    "doctorid": 4
+  },
+  {
+    "episodeid": "18-7",
+    "title": "Logopolis",
+    "first_diffusion": "28 Feb, 1981",
+    "doctorid": 4
+  },
+
+  {
+    "episodeid": "19-1",
+    "title": "Castrovalva",
+    "first_diffusion": "4 Jan, 1982",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "19-2",
+    "title": "Four to Doomsday",
+    "first_diffusion": "18 Jan, 1982",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "19-3",
+    "title": "Kinda",
+    "first_diffusion": "1 Feb, 1982",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "19-4",
+    "title": "The Visitation",
+    "first_diffusion": "15 Feb, 1982",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "19-5",
+    "title": "Black Orchid",
+    "first_diffusion": "1 Mar, 1982",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "19-6",
+    "title": "Earthshock",
+    "first_diffusion": "8 Mar, 1982",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "19-7",
+    "title": "Time Flight",
+    "first_diffusion": "22 Mar, 1982",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "20-1",
+    "title": "Arc of Infinity",
+    "first_diffusion": "3 Jan, 1983",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "20-2",
+    "title": "Snakedance",
+    "first_diffusion": "17 Jan, 1983",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "20-3",
+    "title": "Mawdryn Undead",
+    "first_diffusion": "1 Feb, 1983",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "20-4",
+    "title": "Terminus",
+    "first_diffusion": "15 Feb, 1983",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "20-5",
+    "title": "Enlightenment",
+    "first_diffusion": "1 Mar, 1983",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "20-6",
+    "title": "The King's Demons",
+    "first_diffusion": "15 Mar, 1983",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "20-7",
+    "title": "The Five Doctors",
+    "first_diffusion": "25 Nov, 1983",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "21-1",
+    "title": "Warriors of the Deep",
+    "first_diffusion": "5 Jan, 1984",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "21-2",
+    "title": "The Awakening",
+    "first_diffusion": "19 Jan, 1984",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "21-3",
+    "title": "Frontios",
+    "first_diffusion": "26 Jan, 1984",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "21-4",
+    "title": "Resurrection of the Daleks",
+    "first_diffusion": "8 Feb, 1984",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "21-5",
+    "title": "Planet of Fire",
+    "first_diffusion": "23 Feb, 1984",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "21-6",
+    "title": "The Caves of Androzani",
+    "first_diffusion": "8 Mar, 1984",
+    "doctorid": 5
+  },
+  {
+    "episodeid": "21-7",
+    "title": "The Twin Dilemma",
+    "first_diffusion": "22 Mar, 1984",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "22-1",
+    "title": "Attack of the Cybermen",
+    "first_diffusion": "5 Jan, 1985",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "22-2",
+    "title": "Vengeance on Varos",
+    "first_diffusion": "19 Jan, 1985",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "22-3",
+    "title": "The Mark of the Rani",
+    "first_diffusion": "2 Feb, 1985",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "22-4",
+    "title": "The Two Doctors",
+    "first_diffusion": "16 Feb, 1985",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "22-5",
+    "title": "Timelash",
+    "first_diffusion": "9 Mar, 1985",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "22-6",
+    "title": "Revelation of the Daleks",
+    "first_diffusion": "23 Mar, 1985",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "23-1",
+    "title": "The Mysterious Planet",
+    "first_diffusion": "6 Sep, 1986",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "23-2",
+    "title": "Mindwarp",
+    "first_diffusion": "4 Oct, 1986",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "23-3",
+    "title": "Terror of the Vervoids",
+    "first_diffusion": "1 Nov, 1986",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "23-4",
+    "title": "The Ultimate Foe",
+    "first_diffusion": "29 Nov, 1986",
+    "doctorid": 6
+  },
+  {
+    "episodeid": "24-1",
+    "title": "Time and the Rani",
+    "first_diffusion": "7 Sep, 1987",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "24-2",
+    "title": "Paradise Towers",
+    "first_diffusion": "5 Oct, 1987",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "24-3",
+    "title": "Delta and the Bannermen",
+    "first_diffusion": "2 Nov, 1987",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "24-4",
+    "title": "Dragonfire",
+    "first_diffusion": "23 Nov, 1987",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "25-1",
+    "title": "Remembrance of the Daleks",
+    "first_diffusion": "5 Oct, 1988",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "25-2",
+    "title": "The Happiness Patrol",
+    "first_diffusion": "2 Nov, 1988",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "25-3",
+    "title": "Silver Nemesis",
+    "first_diffusion": "23 Nov, 1988",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "25-4",
+    "title": "The Greatest Show in the Galaxy",
+    "first_diffusion": "14 Dec, 1988",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "26-1",
+    "title": "Battlefield",
+    "first_diffusion": "6 Sep 6, 1989",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "26-2",
+    "title": "Ghost Light",
+    "first_diffusion": "4 Oct, 1989",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "26-3",
+    "title": "The Curse of Fenric",
+    "first_diffusion": "25 Oct, 1989",
+    "doctorid": 7
+  },
+  {
+    "episodeid": "26-4",
+    "title": "Survival",
+    "first_diffusion": "22 Nov, 1989",
+    "doctorid": 7
+  },  
+  {
+    "episodeid": "movie",
+    "title": "The Movie",
+    "first_diffusion": "12 May, 1996 (Canada)",
+    "doctorid": 8
+  },
+  {
+    "episodeid": "Bounty",
+    "title": "Bounty",
+    "first_diffusion": "Bounty",
+    "doctorid": 8
+  },
+  {
+    "episodeid": "DeadTime",
+    "title": "Dead Time",
+    "first_diffusion": "Dead Time",
+    "doctorid": 8
+  },
+  {
+    "episodeid": "PTemple",
+    "title": "The People's Temple, by Paul Leonard",
+    "first_diffusion": "ABBC Audiobook, narrated by Paul McGann, released on 7th Sept 1998",
+    "doctorid": 8
+  },
+  {
+    "episodeid": "34-05",
+    "title": "The Night of the Doctor",
+    "first_diffusion": "14 Nov, 2013",
+    "doctorid": 8
+  },
+  {
+    "episodeid": "27-1",
+    "title": "Rose",
+    "first_diffusion": "26 Mar, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-2",
+    "title": "The End of the World",
+    "first_diffusion": "2 Apr, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-3",
+    "title": "The Unquiet Dead",
+    "first_diffusion": "9 Apr, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-4",
+    "title": "Aliens of London",
+    "first_diffusion": "16 Apr, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-5",
+    "title": "World War Three",
+    "first_diffusion": "23 Apr, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-6",
+    "title": "Dalek",
+    "first_diffusion": "30 Apr, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-7",
+    "title": "The Long Game",
+    "first_diffusion": "7 May, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-8",
+    "title": "Father's Day",
+    "first_diffusion": "14 May, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-9",
+    "title": "The Empty Child",
+    "first_diffusion": "21 May, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-10",
+    "title": "The Doctor Dances",
+    "first_diffusion": "28 May, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-11",
+    "title": "Boom Town",
+    "first_diffusion": "4 Jun, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-12",
+    "title": "Bad Wolf",
+    "first_diffusion": "11 Jun, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "27-13",
+    "title": "The Parting of the Ways",
+    "first_diffusion": "18 Jun, 2005",
+    "doctorid": 9
+  },
+  {
+    "episodeid": "28-05",
+    "title": "Born Again",
+    "first_diffusion": "18 Nov, 2005",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-0",
+    "title": "The Christmas Invasion",
+    "first_diffusion": "25 Dec, 2005",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-1",
+    "title": "New Earth",
+    "first_diffusion": "15 Apr, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-2",
+    "title": "Tooth and Claw",
+    "first_diffusion": "22 Apr, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-3",
+    "title": "School Reunion",
+    "first_diffusion": "29 Apr, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-4",
+    "title": "The Girl in the Fireplace",
+    "first_diffusion": "6 May, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-5",
+    "title": "Rise of the Cybermen",
+    "first_diffusion": "13 May, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-6",
+    "title": "The Age of Steel",
+    "first_diffusion": "20 May, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-7",
+    "title": "The Idiot's Lantern",
+    "first_diffusion": "27 May, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-8",
+    "title": "The Impossible Planet",
+    "first_diffusion": "3 Jun, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-9",
+    "title": "The Satan Pit",
+    "first_diffusion": "10 Jun, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-10",
+    "title": "Love and Monsters",
+    "first_diffusion": "17 Jun, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-11",
+    "title": "Fear Her",
+    "first_diffusion": "24 Jun, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-12",
+    "title": "Army of Ghosts",
+    "first_diffusion": "1 Jul, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "28-13",
+    "title": "Doomsday",
+    "first_diffusion": "8 Jul, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-0",
+    "title": "The Runaway Bride",
+    "first_diffusion": "25 Dec, 2006",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-1",
+    "title": "Smith and Jones",
+    "first_diffusion": "31 Mar, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-14",
+    "title": "The Infinite Quest",
+    "first_diffusion": "2 Apr, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-2",
+    "title": "The Shakespeare Code",
+    "first_diffusion": "7 Apr, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-3",
+    "title": "Gridlock",
+    "first_diffusion": "14 Apr, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-4",
+    "title": "Daleks In Manhattan",
+    "first_diffusion": "21 Apr, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-5",
+    "title": "Evolution Of The Daleks",
+    "first_diffusion": "28 Apr, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-6",
+    "title": "The Lazarus Experiment",
+    "first_diffusion": "5 May, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-7",
+    "title": 42,
+    "first_diffusion": "19 May, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-8",
+    "title": "Human Nature",
+    "first_diffusion": "26 May, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-9",
+    "title": "Family of Blood",
+    "first_diffusion": "2 Jun, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-10",
+    "title": "Blink",
+    "first_diffusion": "9 Jun, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-11",
+    "title": "Utopia",
+    "first_diffusion": "16 Jun, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-12",
+    "title": "The Sound of Drums",
+    "first_diffusion": "23 Jun, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "29-13",
+    "title": "Last of the Time Lords",
+    "first_diffusion": "30 Jun, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "CIN2007",
+    "title": "Time Crash",
+    "first_diffusion": "17 Nov, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-0",
+    "title": "Voyage of the Damned",
+    "first_diffusion": "25 Dec, 2007",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-1",
+    "title": "Partners in Crime",
+    "first_diffusion": "5 Apr, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-2",
+    "title": "The Fires of Pompeii",
+    "first_diffusion": "12 Apr, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-3",
+    "title": "Planet of the Ood",
+    "first_diffusion": "19 Apr, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-4",
+    "title": "The Sontaran Stratagem",
+    "first_diffusion": "26 Apr, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-5",
+    "title": "The Poison Sky",
+    "first_diffusion": "3 May, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-6",
+    "title": "The Doctor's Daughter",
+    "first_diffusion": "10 May, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-7",
+    "title": "The Unicorn and The Wasp",
+    "first_diffusion": "17 May, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-8",
+    "title": "Silence in the Library",
+    "first_diffusion": "31 May, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-9",
+    "title": "Forest of the Dead",
+    "first_diffusion": "7 Jun, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-10",
+    "title": "Midnight",
+    "first_diffusion": "14 Jun, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-11",
+    "title": "Turn Left",
+    "first_diffusion": "21 Jun, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-12",
+    "title": "The Stolen Earth",
+    "first_diffusion": "28 Jun, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-13",
+    "title": "Journey's End",
+    "first_diffusion": "5 Jul, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-14",
+    "title": "The Next Doctor",
+    "first_diffusion": "25 Dec, 2008",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-15",
+    "title": "Planet of the Dead",
+    "first_diffusion": "11 Apr, 2009",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-16",
+    "title": "The Waters of Mars",
+    "first_diffusion": "15 Nov, 2009",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "Dreamland",
+    "title": "Dreamland",
+    "first_diffusion": "21 Nov, 2009",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-17",
+    "title": "The End of Time, part one",
+    "first_diffusion": "25 Dec, 2009",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "30-18",
+    "title": "The End of Time, part two",
+    "first_diffusion": "1 Jan, 2010",
+    "doctorid": 10
+  },
+  {
+    "episodeid": "31-1",
+    "title": "The Eleventh Hour",
+    "first_diffusion": "3 Apr 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-2",
+    "title": "The Beast Below",
+    "first_diffusion": "10 Apr, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-3",
+    "title": "Victory of the Daleks",
+    "first_diffusion": "17 Apr, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-4",
+    "title": "The Time of Angels",
+    "first_diffusion": "24 Apr, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-5",
+    "title": "Flesh and Stone",
+    "first_diffusion": "1 May, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-6",
+    "title": "The Vampires of Venice",
+    "first_diffusion": "8 May, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-7",
+    "title": "Amy's Choice",
+    "first_diffusion": "15 May, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-8",
+    "title": "The Hungry Earth",
+    "first_diffusion": "22 May, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-9",
+    "title": "Cold Blood",
+    "first_diffusion": "29 May, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-10",
+    "title": "Vincent and the Doctor",
+    "first_diffusion": "5 Jun, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-11",
+    "title": "The Lodger",
+    "first_diffusion": "12 Jun, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-12",
+    "title": "The Pandorica Opens",
+    "first_diffusion": "19 Jun, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "31-13",
+    "title": "The Big Bang",
+    "first_diffusion": "26 Jun, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-0",
+    "title": "A Christmas Carol",
+    "first_diffusion": "25 Dec, 2010",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "TimeRND2011",
+    "title": "Comic Relief Red Nose Day 2011 - Time",
+    "first_diffusion": "18 Mar 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-1",
+    "title": "The Impossible Astronaut",
+    "first_diffusion": "23 Apr, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-2",
+    "title": "Day of the Moon",
+    "first_diffusion": "30 Apr, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-3",
+    "title": "Curse of the Black Spot",
+    "first_diffusion": "7 May, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-4",
+    "title": "The Doctor's Wife",
+    "first_diffusion": "14 May, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-5",
+    "title": "The Rebel Flesh",
+    "first_diffusion": "21 May, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-6",
+    "title": "The Almost People",
+    "first_diffusion": "28 May, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-7",
+    "title": "A Good Man Goes To War",
+    "first_diffusion": "4 Jun, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-8",
+    "title": "Let's Kill Hitler",
+    "first_diffusion": "27 Aug, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-9",
+    "title": "Night Terrors",
+    "first_diffusion": "3 Sep, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-10",
+    "title": "The Girl Who Waited",
+    "first_diffusion": "10 Sep, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-11",
+    "title": "The God Complex",
+    "first_diffusion": "17 Sep, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-12",
+    "title": "Closing Time",
+    "first_diffusion": "24 Sep, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "32-13",
+    "title": "The Wedding of River Song",
+    "first_diffusion": "1 Oct, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-0",
+    "title": "The Doctor, the Widow, and the Wardrobe",
+    "first_diffusion": "25 Dec, 2011",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-05",
+    "title": "Pond Life",
+    "first_diffusion": "27-31 Aug, 2012",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-1",
+    "title": "Asylum of the Daleks",
+    "first_diffusion": "1 Sep, 2012",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-2",
+    "title": "Dinosaurs on a Spaceship",
+    "first_diffusion": "8 Sep, 2012",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-3",
+    "title": "A Town Called Mercy",
+    "first_diffusion": "15 Sep, 2012",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-4",
+    "title": "The Power of Three",
+    "first_diffusion": "22 Sep, 2012",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-5",
+    "title": "The Angels Take Manhattan",
+    "first_diffusion": "29 Sep, 2012",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "CIN2012",
+    "title": "The Great Detective",
+    "first_diffusion": "16 Nov, 2012",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-59",
+    "title": "Vastra Investigates",
+    "first_diffusion": "17 Dec, 2012",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-6",
+    "title": "The Snowmen",
+    "first_diffusion": "25 Dec 2012",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "webS7",
+    "title": "The Battle of Demons Run - Two Days Later",
+    "first_diffusion": "25 Mar, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-7",
+    "title": "The Bells of Saint John",
+    "first_diffusion": "30 Mar, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-8",
+    "title": "The Rings of Akhaten",
+    "first_diffusion": "6 Apr, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-9",
+    "title": "Cold War",
+    "first_diffusion": "13 Apr, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-10",
+    "title": "Hide",
+    "first_diffusion": "20 Apr, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-11",
+    "title": "Journey to the Centre of the Tardis",
+    "first_diffusion": "27 Apr, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-12",
+    "title": "The Crimson Horror",
+    "first_diffusion": "4 May, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-13",
+    "title": "Nightmare in Silver",
+    "first_diffusion": "11 May, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-14",
+    "title": "The Name of the Doctor",
+    "first_diffusion": "18 May, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-15",
+    "title": "The Day of the Doctor",
+    "first_diffusion": "23 Nov, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "33-16",
+    "title": "The Time of the Doctor",
+    "first_diffusion": "25 Dec, 2013",
+    "doctorid": 11
+  },
+  {
+    "episodeid": "34-1",
+    "title": "Deep Breath",
+    "first_diffusion": "23 Aug 2014",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-2",
+    "title": "Into the Dalek",
+    "first_diffusion": "Into the Dalek",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-3",
+    "title": "Robot of Sherwood",
+    "first_diffusion": "7 Sept 2014",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-4",
+    "title": "Listen",
+    "first_diffusion": "13 Sept 2014",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-5",
+    "title": "Time Heist",
+    "first_diffusion": "Time Heist",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-6",
+    "title": "The Caretaker",
+    "first_diffusion": "27 Sep 2014",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-7",
+    "title": "Kill the Moon",
+    "first_diffusion": "4 Oct 2014",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-8",
+    "title": "Mummy on the Orient Express",
+    "first_diffusion": "11 Oct 2014",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-9",
+    "title": "Flatline",
+    "first_diffusion": "18 Oct 2014",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-10",
+    "title": "In the Forest of the Night",
+    "first_diffusion": "25 Oct 2014",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-11",
+    "title": "Dark Water",
+    "first_diffusion": "1 Nov 2014",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-12",
+    "title": "Death in Heaven",
+    "first_diffusion": "Death in Heaven",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "34-13",
+    "title": "Last Christmas",
+    "first_diffusion": "Last Christmas",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-1",
+    "title": "The Magician's Apprentice",
+    "first_diffusion": "19 Sep 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-2",
+    "title": "The Witch's Familiar",
+    "first_diffusion": "26 Sept 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-3",
+    "title": "Under the Lake",
+    "first_diffusion": "3 Oct 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-4",
+    "title": "Before The Flood",
+    "first_diffusion": "10 Oct 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-5",
+    "title": "The Girl Who Died",
+    "first_diffusion": "17 Oct 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-6",
+    "title": "The Woman Who Lived",
+    "first_diffusion": "24 Oct 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-7",
+    "title": "The Zygon Invasion",
+    "first_diffusion": "The ZygonInvasion",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-8",
+    "title": "The Zygon Inversion",
+    "first_diffusion": "7 Oct 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-9",
+    "title": "Sleep No More",
+    "first_diffusion": "15 Nov 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-10",
+    "title": "Face the Raven",
+    "first_diffusion": "21 Nov 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-11",
+    "title": "Heaven Sent",
+    "first_diffusion": "28 Nov 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-12",
+    "title": "Hell Bent",
+    "first_diffusion": "5 Dec 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "35-13",
+    "title": "The Husbands of River Song",
+    "first_diffusion": "25 Dec 2015",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-0",
+    "title": "The Return of Doctor Mysterio, by Stephen Moffat",
+    "first_diffusion": "25 Dec 2016",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-1",
+    "title": "The Pilot",
+    "first_diffusion": "15 Apr 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-2",
+    "title": "Smile",
+    "first_diffusion": "22 Apr 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-3",
+    "title": "Thin Ice",
+    "first_diffusion": "29 Apr 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-4",
+    "title": "Knock Knock",
+    "first_diffusion": "6 May 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-5",
+    "title": "Oxygen",
+    "first_diffusion": "13 May 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-6",
+    "title": "Extremis",
+    "first_diffusion": "20 May 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-7",
+    "title": "The Pyramid at the End of the World",
+    "first_diffusion": "27 May 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-8",
+    "title": "The Lie of the Land",
+    "first_diffusion": "03 Jun 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-9",
+    "title": "Empress of Mars",
+    "first_diffusion": "10 Jun 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-10",
+    "title": "The Eaters of Light",
+    "first_diffusion": "17 Jun 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-11",
+    "title": "World Enough and Time",
+    "first_diffusion": "24 Jun 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-12",
+    "title": "The Doctor Falls",
+    "first_diffusion": "1 Jul 2017",
+    "doctorid": 12
+  },
+  {
+    "episodeid": "36-13",
+    "title": "Twice Upon A Time",
+    "first_diffusion": "25 Dec 2017",
+    "doctorid": 12
+  },
+ 
+  {
+    "episodeid": "37-1",
+    "title": "The Woman Who Fell To Earth",
+    "first_diffusion": "07 Oct 2018",
+    "doctorid": 13
+  },
+  {
+    "episodeid": "37-2",
+    "title": "The Ghost Monument",
+    "first_diffusion": "14 Oct 2018",
+    "doctorid": 13
+  },
+  {
+    "episodeid": "37-3",
+    "title": "Rosa",
+    "first_diffusion": "21 Oct 2018",
+    "doctorid": 13
+  },
+  {
+    "episodeid": "37-4",
+    "title": "Arachnids in the UK",
+    "first_diffusion": "28 Sep 2018",
+    "doctorid": 13
+  },
+  {
+    "episodeid": "37-5",
+    "title": "The Tsuranga Conundrum",
+    "first_diffusion": "4 Nov 2018",
+    "doctorid": 13
+  },
+  {
+    "episodeid": "37-6",
+    "title": "Demons of the Punjab",
+    "first_diffusion": "11 Nov 2018",
+    "doctorid": 13
+  },
+  {
+    "episodeid": "37-7",
+    "title": "Kerblam!",
+    "first_diffusion": "18 Nov 2018",
+    "doctorid": 13
+  },
+  {
+    "episodeid": "37-8",
+    "title": "The Witchfinders",
+    "first_diffusion": "25 Nov 2018",
+    "doctorid": 13
+  },
+  {
+    "episodeid": "37-9",
+    "title": "It Takes You Away",
+    "first_diffusion": "2 Dec 2018",
+    "doctorid": 13
+  },
+  {
+    "episodeid": "37-10",
+    "title": "The Battle of Ranskoor Av Kolos",
+    "first_diffusion": "9 Dec 2018",
+    "doctorid": 13
+  },
+  {
+    "episodeid": "37-11",
+    "title": "Resolution",
+    "first_diffusion": "1 Jan 2019",
+    "doctorid": 13
+  }
+]

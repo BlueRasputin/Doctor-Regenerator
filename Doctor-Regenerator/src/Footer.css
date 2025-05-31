@@ -1,8 +1,14 @@
 .Footer {
+    width: device-width;
+    background-color: #07477f;
+    color: rgba(255, 255, 255, 0.8);
     display: flex;
-    /* justify-content: space-between; */
-    background-color: #003B6F;
+    justify-content: space-between;
+    align-items: center;
+    /* gap: 2rem; */
     padding-left: 1rem;
     padding-right: 1rem;
+    font-weight: bold;
+    
 }
 

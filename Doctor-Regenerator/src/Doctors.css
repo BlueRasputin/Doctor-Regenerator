@@ -1,0 +1,11 @@
+
+.Doctor-grid{
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        background-color: #003B6F;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        align-items: center;
+}

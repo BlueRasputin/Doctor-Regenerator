@@ -7,14 +7,9 @@ import '../Nav.css';
 function NavBar() {
   return (
     <nav className="nav">
-    {/* <h2 id="title">Doctor Who <br /> Regenerator</h2> */}
     
-    {/* <div className="siteTitle"></div>
-                <Link to="/"></Link> */}
       <ul>
-        {/* <li>
-          <Link to="/">HOME</Link>
-        </li> */}
+        
         <li>
           <Link to="/">HOME</Link>
         </li>
@@ -23,6 +18,9 @@ function NavBar() {
         </li>
         <li>
           <Link to="/DocDirectory">DOCTOR DIRECTORY</Link>
+        </li>
+        <li>
+          <Link to="/Episodes">EPISODES</Link>
         </li>
         <li>
           <Link to="/About">ABOUT</Link>

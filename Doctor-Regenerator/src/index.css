@@ -5,7 +5,13 @@
 
   color-scheme: light dark;
   color: #003B6F;
-  background-color: #060636;
+  /* background-color: #060636; */
+  background-image: url('./assets/galaxy.jpg');
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;*/
+  height: 100vh;
+ /* margin: 0; */
   
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -26,8 +32,8 @@ a {
 } */
 
 body {
-  /* background-color:#3f4aaa; */
-  margin: 20px;
+ 
+  /* margin: 20px; */
   display: flex;
   place-items: center;
   min-width: 230px;
@@ -46,12 +52,20 @@ h3 {
 }
 .home-Info {
  /* display: flex; */
+ padding: 1rem;
     justify-content: space-between;
     background-color: #003B6F;
     margin-left: 1rem;
     margin-right: 1rem;
 }
-
+.about-Page {
+ /* display: flex; */
+ padding: 1rem;
+    justify-content: space-between;
+    background-color: #003B6F;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
 
 button {
   margin-bottom: 1rem;

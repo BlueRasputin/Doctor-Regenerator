@@ -1,0 +1,26 @@
+.episode-table-box {
+flex-grow: 1;
+  max-height: 800px; 
+  overflow-y: auto;   
+  border: 1px solid #ccc;
+  margin-left: 1 rem;
+}
+
+.episode-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.episode-table th,
+.episode-table td {
+  border: 1px solid #6f6060;
+  padding: 0.5rem;
+  text-align: left;
+  background-color: #ccc;
+}
+
+.episode-table th {
+  background-color: #f0f0f0;
+  position: sticky;
+  top: 0;
+}

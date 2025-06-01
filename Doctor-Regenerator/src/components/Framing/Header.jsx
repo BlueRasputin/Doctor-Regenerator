@@ -1,10 +1,11 @@
-import '../Header.css';
+import './Header.css';
 import { Link } from "react-router-dom";
 
 
 function Header() {
     return (
     <>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <div >
         <Link to='/'><div className="light"></div></Link>
         </div>

@@ -1,12 +1,12 @@
 
 import {  BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import NavBar from './components/NavBar.jsx';
-import About from './components/About.jsx'
+import NavBar from './components/Framing/NavBar.jsx';
+import About from './components/About.jsx';
 import HomePage from './components/HomePage.jsx'
-import Regenerator from './components/Regenerator.jsx';
-import DocDirectory from './components/DocDirectory.jsx';
-import Episodes from './components/Episodes.jsx';
-import Contact from './components/Contact.jsx';
+import Regenerator from './components/Regenerator/Regenerator.jsx';
+import DocDirectory from './components/Directory/DocDirectory.jsx';
+import Episodes from './components/Episodes/Episodes.jsx';
+import Contact from './components/Contact/Contact.jsx';
 import './App.css';
 
 

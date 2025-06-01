@@ -7,14 +7,14 @@ body {
 }
 
 .nav {
-    width: device-width;
+    width: 100%;
     background-color: #07477f;
     color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
     /* gap: 2rem; */
-    padding: rem;
+    /* padding: rem; */
     font-weight: bold;
 }
 
@@ -53,4 +53,46 @@ body {
   );
     
     
+}
+
+
+
+
+@media (max-width: 768px) {
+  .nav li {
+    padding: 2px;
+    }
+  
+  .icon-home::before {
+    content: url(../../assets/icons/icons8-doctor-who-24.png);
+    display: inline-block;
+    
+    }
+  .icon-regenerator::before {
+    content: url(../../assets/icons/icons8-clock-24.png);
+    display: inline-block;
+    
+    }
+  .icon-doctor::before {
+    content: url(../../assets/icons/icons8-who-24.png);
+    display: inline-block;
+    
+    
+    }
+   .icon-episodes::before {
+    content: url(../../assets/icons/icons8-tardis-24.png);
+    display: inline-block;
+   
+    }
+  
+  .icon-about::before {
+    content: url(../../assets/icons/icons8-about-24.png);
+    display: inline-block;
+    
+  }
+  .icon-contact::before {
+    content: url(../../assets/icons/icons8-sonic-screwdriver-24.png);
+    display: inline-block;
+    
+  }
 }

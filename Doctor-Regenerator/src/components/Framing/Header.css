@@ -7,7 +7,7 @@
     margin-left: 2rem;
     margin-right: 2rem;
     display: flex;
-    width: device-width;
+    /* overflow-x: hidden; */
     background-color: #003B6F;
     color: white;
     text-align: center;
@@ -18,12 +18,12 @@
 }
 
 .light {
-    width: 3rem;
+    width: 4rem;
     height: 4rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    width: device-width;
+    width: 50px;
     border-top: 50%;
     margin: 0 auto;
     background-color:antiquewhite;

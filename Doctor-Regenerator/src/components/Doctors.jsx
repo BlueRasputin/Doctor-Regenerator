@@ -1,4 +1,4 @@
-import '../Doctors.css';
+// import '../Doctors.css';
 
 const Doctors = [
     {id: 1,

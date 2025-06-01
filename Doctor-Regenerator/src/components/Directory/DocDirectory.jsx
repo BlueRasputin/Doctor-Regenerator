@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from 'react-router-dom';
-import '../Doctors.css'
-import Doctors from "./Doctors.jsx";
+import './Doc-Directory.css'
+import Doctors from "../Doctors.jsx";
 
 
 

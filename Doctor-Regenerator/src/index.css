@@ -1,71 +1,90 @@
+
+* {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
 :root {
-  font-family:fantasy;
+  font-family: Eurostile;
   line-height: 1.5;
   font-weight: 400;
-
   color-scheme: light dark;
   color: #003B6F;
-  /* background-color: #060636; */
-  background-image: url('./assets/galaxy.jpg');
-  /* background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;*/
-  height: 100vh;
- /* margin: 0; */
-  
+  /* background-color: #011324; */
+  background-image: url('./assets/images/galaxy.jpg');
+  background-size: clone;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
+
+@font-face {
+  font-family: 'Gallifreyan';
+  src: url('./assets/fonts/ws_simple_gallifreyan.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Eurostile';
+  src: url('./assets/fonts/eurostile.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+/* @font-face {
+  font-family: 'Gallifreyan';
+  src: url('./assets/fonts/ws_simple_gallifreyan.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+
+
+
 a {
   font-weight: 500;
   color: #ececec;
   text-decoration: inherit;
 }
-/* a:hover {
-  color: #ffffff;
-  filter: drop-shadow( 0 0 20px currentcolor
-  );
-  
-} */
+
+
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
 
 body {
- 
-  /* margin: 20px; */
-  display: flex;
-  place-items: center;
-  min-width: 230px;
-  /* min-height: 80vh; */
+  min-height: 100vh;
 }
+
 
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
-  color:#e8a719
+  color: #ebe8e3;
 }
+
 
 h3 {
-  color:#e8a719;
+  color: #e8a719;
 
 }
-.home-Info {
- /* display: flex; */
- padding: 1rem;
-    justify-content: space-between;
-    background-color: #003B6F;
-    margin-left: 1rem;
-    margin-right: 1rem;
+
+
+.home-Info, .about-Page, .Doctor-page{
+  display: flex;
+  padding: 1rem;
+  justify-content: space-between;
+  background-color: #003B6F;
+  margin: 0 1rem;
 }
-.about-Page {
- /* display: flex; */
- padding: 1rem;
-    justify-content: space-between;
-    background-color: #003B6F;
-    margin-left: 1rem;
-    margin-right: 1rem;
-}
+
 
 button {
   margin-bottom: 1rem;
@@ -79,6 +98,7 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
 
 button:focus,
 button:focus-visible {
@@ -97,5 +117,3 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-
-

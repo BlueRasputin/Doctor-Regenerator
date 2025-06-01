@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import '../Episodes.css';
-// import '../public/DWEpisodes.json';
+import './Episodes.css';
+
 
 //I need to fetch data from the Episode list
 //I want to be able to filter that data by Doctor Number (stretch goal)

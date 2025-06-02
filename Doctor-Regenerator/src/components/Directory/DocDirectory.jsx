@@ -4,7 +4,7 @@ import './Doc-Directory.css'
 import Doctors from "../Doctors.jsx";
 
 
-
+//Displays Picture and name for each doctor in a directory page
 function DocDirectory() {
   return (
     <div className="Doctor-grid">

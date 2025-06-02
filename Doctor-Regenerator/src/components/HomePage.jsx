@@ -7,7 +7,8 @@ return (
             <h1>
                 What is Doctor Who?
             </h1>
-            
+            </div> 
+        <div className = "home-body">   
             <h3>
                 Doctor Who is a British science fiction television series that originally premiered in 1963 and was revived in 2005. It follows the adventures of the Doctor, a mysterious alien known as a Time Lord from the planet Gallifrey, who travels through time and space in a ship called the TARDIS. The TARDIS looks like a 1960s British police box on the outside but an entire dimension inside. The Doctor often travels with human (and occasionally alien) companions, helping civilizations, righting wrongs, and battling various enemies.
                 <br />

@@ -1,17 +1,11 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import './Episodes.css';
 
 
-//I need to fetch data from the Episode list
-//I want to be able to filter that data by Doctor Number (stretch goal)
-//Need Use Effect to display a 
-
-
-//Need to Loop through episode data 
 
 function Episodes() {
     const [episodes, setEpisodes] = useState([]);
-
+    //fetches episode list from .json file
     useEffect (() => {
         fetch('/DWEpisodes.json')
         .then(response => response.json())
@@ -19,7 +13,7 @@ function Episodes() {
         .catch(err => console.error('Failed to load Episodes:', err));
     
     }, []);
-
+    //displays list of episodes in scrollable table
     return (
         
             <div className="episode-table-box">
@@ -42,8 +36,8 @@ function Episodes() {
                                     <td>{episode.episodeid}</td>
                                     <td>{episode.first_diffusion}</td>
                                     
-                                </tr>
-                                ) : ("Something went Wibbly-Wobbly...")
+                                    </tr>
+                                ) : ("Something went Timey-Wimey...")
                             ))}
                         </tbody>
                     </table>

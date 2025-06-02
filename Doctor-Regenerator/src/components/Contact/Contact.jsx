@@ -1,71 +1,76 @@
-import React, {useState} from 'react';
+import  {useState} from 'react';
 import './Contact.css'
 
 
 
-
-
 const Contact = () => {
-//validate form function
-//usestate to update fields
-const [formData, setFormData] = useState({
-    name: '',
-    email: '',
-    message: '',
-});
-const [errors, setErrors] = useState({});
-const [submitted, setSubmitted] = useState(false);
-const handleChange = (e) => {
-    const { name, value } = e.target;
-    setFormData({
-        ...formData,
-        [name]: value,
+
+    //useState sets default to show an empty string in the contact form elements
+    const [formData, setFormData] = useState({
+        name: '',
+        email: '',
+        message: '',
     });
-};
 
-const handleSubmit = (e) => {
-    e.preventDefault();
-    const newErrors = validateForm(formData);
-    setErrors(newErrors);
+    //initialize error handling
+    const [errors, setErrors] = useState({});
+    //initializes submit state as false
+    const [submitted, setSubmitted] = useState(false);
+    //logic for field entry
+    const handleChange = (e) => {
+        const { name, value } = e.target;
+        setFormData({
+            ...formData,
+            [name]: value,
+        });
+    };
 
-    if (Object.keys(newErrors).length === 0) {
-        //Form Submission logic
-        console.log('Form Submitted successfully!');
-    } else {
-        console.log('Form submission failed due to validation errors.');
-    }
-};
+    //logic for submit button
+    const handleSubmit = (e) => {
+        e.preventDefault();
+        const newErrors = validateForm(formData);
+        setErrors(newErrors);
 
-const validateForm = (data) => {
-    const errors = {};
-
-    if (!data.name.trim()) {
-        errors.name = 'Name is required';
-    } else if (data.name.length < 2) {
-            errors.name = 'Name must be at least 2 characters long';
+        if (Object.keys(newErrors).length === 0) {
+            
+            console.log('Form Submitted successfully!');
+        } else {
+            console.log('Form submission failed due to validation errors.');
         }
-    
-    if (!data.email.trim()) {
-            errors.email = 'Email is required';
-        } else if (!/\S+@\S+\.\S+/.test(data.email)) {
-        errors.email = 'Email is invalid';
-    }
+    };
 
-    if (!data.message) {
-        errors.message = 'Please enter your Feedback';
-    // } else if (data.message.length == "") {
-    //     errors.message = 'Please enter a message';
-    }
-    if (Object.keys(errors).length === 0) {
-        console.log('Thanks for your feedback!');
-        setSubmitted(true);
-        setFormData({ name: '', email: '', message: '' });
-    } else {
-    console.log('Please complete all information');
-    setSubmitted(false);
-    }
-    return errors;
-};
+    //validate form for errors
+    const validateForm = (data) => {
+        const errors = {};
+
+        if (!data.name.trim()) {
+            errors.name = 'Name is required';
+        } else if (data.name.length < 2) {
+                errors.name = 'Name must be at least 2 characters long';
+            }
+        
+        if (!data.email.trim()) {
+                errors.email = 'Email is required';
+            } else if (!/\S+@\S+\.\S+/.test(data.email)) {
+            errors.email = 'Email is invalid';
+        }
+
+        if (!data.message) {
+            errors.message = 'Please enter your Feedback';
+        
+        }
+
+        //check for form accuracy, clears fields and returns 'Thank You' Statement to user
+        if (Object.keys(errors).length === 0) {
+            console.log('Thanks for your feedback!');
+            setSubmitted(true);
+            setFormData({ name: '', email: '', message: '' });
+        } else {
+        console.log('Please complete all information');
+        setSubmitted(false);
+        }
+        return errors;
+    };
 
 
     return (

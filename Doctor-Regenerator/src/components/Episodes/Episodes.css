@@ -1,5 +1,5 @@
 .episode-table-box {
-flex-grow: 1;
+  flex-grow: 1;
   max-height: 800px; 
   overflow-y: auto;   
   border: 1px solid #ccc;

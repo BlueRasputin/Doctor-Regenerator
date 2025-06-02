@@ -10,7 +10,7 @@ import { useEffect, useState } from "react";
 //Function to check if  mobile and switch for icons accordingly
 function NavBar() {
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
-
+  //changes navbar labels for icons for smaller devices
   useEffect(() => {
     const handleResize = () => setIsMobile(window.innerWidth <= 768);
     window.addEventListener('resize', handleResize);

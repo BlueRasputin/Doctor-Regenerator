@@ -1,9 +1,9 @@
 
-import React, { useState, useEffect, } from 'react';
+import { useState, useEffect, } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import Doctors from '../Doctors';
 import './Regenerator.css';
-// import RegenSound from '../assets/DWRegenSound.mp3'
+
 
 
 function Regenerator() {
@@ -19,12 +19,10 @@ function Regenerator() {
     
    
     //currentDoctor represents the doc that's being displayed. Pulls based on index
-
-    
     const currentDoctor = Doctors[index];
 
 
-    //Updates index based on which Doctor Page URL
+    //Updates index based on which Doctor Page URL is displayed
     useEffect(() => {
         const newIndex = Doctors.findIndex(doc => doc.id === parseInt(id));
         if (newIndex !== -1 && newIndex !== index) {
@@ -51,7 +49,7 @@ function handleRegenerate() {
     setIndex(newIndex);
     navigate(`/Doctors/${Doctors[newIndex].id}`);
 }
-//Handles Edge case if Doctor Page is not reached properly or Doctor ID somehow is not accessible
+//Handles Edge case if Doctor Page is not reached properly or Doctor ID is somehow not accessible
 if (!currentDoctor) {
         return (<div>
         <h2>Doctor not found!</h2>
